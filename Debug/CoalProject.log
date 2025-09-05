@@ -1,0 +1,3 @@
+﻿  Assembling Text.asm...
+Text.asm(464): warning A6004: procedure argument or local not referenced : col_track
+  CoalProject.vcxproj -> D:\CoalLab\CoalProject\Debug\CoalProject.exe
